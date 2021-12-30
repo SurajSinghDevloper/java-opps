@@ -17,7 +17,7 @@ public class Account {
         this.CustomerEmail=CustomerEmail;
         this.CustomerPhoneNumber=CustomerPhoneNumber;
     }
-
+    
 
     public void deposit(double depositAmount){    //1st Method
         this.Balance +=depositAmount;
